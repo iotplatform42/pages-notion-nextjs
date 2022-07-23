@@ -2,15 +2,15 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '945f21e491264a8192d8ff63b28a45d8',
+  rootNotionPageId: '82360e96e2fe483aa93ef7e60d99d8f8',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Pages | Nextjs + Notion Starter',
-  domain: 'pages-notion-nextjs.vercel.app',
+  name: 'Demo',
+  domain: 'demo-prject-ieee.vercel.app',
   author: 'Raj Sharma',
 
   // open graph metadata (optional)
